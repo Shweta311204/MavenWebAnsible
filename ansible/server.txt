@@ -1,0 +1,2 @@
+[web]
+localhost ansible connection=local ansible_python-interpreter=/usr/bin/python3
